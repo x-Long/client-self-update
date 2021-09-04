@@ -1,5 +1,5 @@
 @echo off
-
+ 
 set work_dir=%CD%
 
 REM for running on windows x86 os we need compile with x86 go.exe
